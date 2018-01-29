@@ -1,4 +1,4 @@
-# RedditImageGrab
+# RedditGrab3
 
 This project is fork of the project https://github.com/HoverHell/RedditImageGrab
 and all the credit goes to him, I just converted it to python3
